@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ###
 
 <!--
 **vinh28193/vinh28193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+1. Custom Badges at: https://shields.io/
+2. Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
